@@ -4,8 +4,6 @@
 
 - 👨‍💻 All of my projects are available at [https://urvish-portfolio.netlify.app/](https://urvish-portfolio.netlify.app/)
 
-- Mail : **urvishmeghani111@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/urvish-j-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="urvish-j-p" height="30" width="40" /></a>
