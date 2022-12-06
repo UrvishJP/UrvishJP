@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://urvish-portfolio.netlify.app/](https://urvish-portfolio.netlify.app/)
 
-- 💬 Ask me about **React and MERN.**
+- 💬 Ask me about **ReactJS.**
 
 - 📫 How to reach me **urvishmeghani111@gmail.com**
 
