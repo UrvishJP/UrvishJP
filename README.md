@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urvishjp&label=Profile%20views&color=0e75b6&style=flat" alt="urvishjp" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://urvish-portfolio.netlify.app/](https://urvish-portfolio.netlify.app/)
+- 👨‍💻 My portfolio website: [https://urvish-portfolio.netlify.app/](https://urvish-portfolio.netlify.app/)
 
 - 📫 How to reach me **urvishmeghani111@gmail.com**
 
