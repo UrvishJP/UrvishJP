@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Urvish Prajapati</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-💬 Ask me about **ReactJS.**
+💬 Ask me about ReactJS.
 
 
 📫 How to reach me: **urvishmeghani111@gmail.com**
